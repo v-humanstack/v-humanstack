@@ -5,7 +5,7 @@ tech sourcer @ Buk | personas > stacks ¿? 💛
 
 holaa! me llamo valentina (o vale)   
 
-trabajo en tech sourcing, por lo que si bien estoy acá para ver sus perfiles, mi foco es conectar personas con oportunidades que realmente les hagan sentido y les permitan ir más allá.  
+trabajo en tech sourcing, por lo que si bien estoy acá para ver sus perfiles, mi foco es conectar personas con oportunidades que realmente les hagan sentido y les permitan desafiarse.  
 
 me gusta entender los perfiles más allá de lo que está en su CV: qué les motiva, qué buscan, qué los hace quedarse en un lugar. creo que el match nunca es solo técnico, sino también humano.  
 
@@ -21,6 +21,6 @@ no soy dev, pero sí busco entender la tecnología para tener conversaciones rea
   
 ## conectemos
 
-si eres dev o trabajas en tech y estás explorando opciones, feliz de conversar 💛 incluso si es para más adelantes. 
+si eres dev o trabajas en tech y estás explorando opciones, feliz de conversar 💛 incluso si es para más adelante. 
 
-> probablemente te voy a preguntar tu helado favorito
+>>>> probablemente te voy a preguntar tu helado favorito

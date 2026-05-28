@@ -1,5 +1,5 @@
 # v-humanstack
-tech sourcer @ Buk | personas > stacks ¿? 💛
+tech sourcer @ Buk | personas > stacks ¿? 
 
 ## 🌿 sobre mí
 
@@ -9,11 +9,11 @@ trabajo en tech sourcing, por lo que si bien estoy acá para ver sus perfiles, m
 
 me gusta entender los perfiles más allá de lo que está en su CV: qué les motiva, qué buscan, qué los hace quedarse en un lugar. creo que el match nunca es solo técnico, sino también humano.  
 
-llevo 9 meses en Buk, trabajando con equipos tech y aprendiendo todos los días un poquito más sobre cómo funcionan por dentro: desde cómo se construye un producto hasta cómo se arma un buen equipo.  
+llevo 10 meses en Buk, trabajando con equipos tech y aprendiendo todos los días un poquito más sobre cómo funcionan por dentro: desde cómo se construye un producto hasta cómo se arma un buen equipo.  
 
-no soy dev, pero sí busco entender la tecnología para tener conversaciones reales (y no solo repetir buzzwords).  
+no soy dev, pero sí busco entender la tecnología para tener conversaciones reales (y no solo repetir palabras).  
 
-##  amo
+##  me encanta
 
 - mejorar la experiencia de candidatos  
 - hacer procesos más humanos y transparentes  

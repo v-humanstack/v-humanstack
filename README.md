@@ -28,6 +28,10 @@ principalmente, buk esta construido sobre un monolito en RoR. no obstante, más 
 
 si eres dev o trabajas en tech y estás explorando opciones, feliz de conversar 💛 incluso si es para más adelante. 
 
+<a href="https://linkedin.com/in/v-larenas">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 ## ¿quieres saber más sobre buk? 
 | Pilar | Info Clave |
 | :--- | :--- |

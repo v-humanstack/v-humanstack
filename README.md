@@ -24,3 +24,10 @@ no soy dev, pero sí busco entender la tecnología para tener conversaciones rea
 si eres dev o trabajas en tech y estás explorando opciones, feliz de conversar 💛 incluso si es para más adelante. 
 
 >>>> probablemente te voy a preguntar tu helado favorito
+
+## ¿Quieres saber más sobre buk? 
+| Pilar | Info Clave |
+| :--- | :--- |
+|![LATAM Tech](https://github.com/v-humanstack/tech-first-buk) | Nuestra cultura tech first y posicionamiento como unicornio LATAM 🤖|
+|![Why we love boring_tech](https://github.com/v-humanstack/tech-first-buk](https://github.com/v-humanstack/boring-tech)  | Arquitectura, escala y prácticas reales 🧱|
+|![Comunidad Buker](https://github.com/v-humanstack/comunidad-buker)  | ¿Quiénes somos?: Open Source, Tech Blog y Qué significa trabajar en Buk 💙|
